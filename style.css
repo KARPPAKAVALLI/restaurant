@@ -1,0 +1,112 @@
+body{
+    background-color: black;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), black),
+    url('https://cdn.shopify.com/s/files/1/2303/2711/files/beginners-guide-to-instagram-worthy-food-photography-with-a-smartphone-8.jpg?v=1590931475');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+    }
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px; /* Adjust padding as needed */
+}
+
+
+.logo img {
+    height: 113px;
+    width: 450px;
+}
+.top{
+    padding-bottom: 270px;
+}
+.menu a {
+    margin-left: 20px; /* Adjust margin as needed */
+    text-decoration: none;
+    color: white; /* Change color as needed */
+    font-size: 30px;
+    justify-content: space-between;
+    padding: 50px;
+    -webkit-text-stroke-width: 0.9px;
+    -webkit-text-stroke-color: red;
+}
+
+.menu {
+    display: flex;
+    margin-right: 50px;
+    margin-top: 0px;
+}
+.content{
+    color: white;
+    margin-top: 100px;
+    margin-left: 50px;
+    -webkit-text-stroke-width: 0.3px;
+    -webkit-text-stroke-color: red;
+}
+.content h1{
+    font-size: 40px;
+    color: rgb(248, 78, 52);
+}
+.content button{
+    background-color: red;
+    color: white;
+    border-color: white;
+    border-width: 1px;
+    border-radius: 10px;
+    font-size: medium;
+    height: 30px;
+    width: 200px;
+}
+.bgimg{
+    width: 100%;
+    padding-top: 20px;
+}
+.Menu-items {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 200px;
+    font-size: larger;
+    -webkit-text-stroke-width: 0.3px;
+    -webkit-text-stroke-color: red;
+}
+.menu1{
+    flex: 1;
+}
+.menu2{
+    flex: 1;
+}
+.menu3{
+    flex: 1;
+}
+table{
+    width: 100%;
+}
+.dish{
+    padding-right: 200px;
+}
+.locations {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    -webkit-text-stroke-width: 0.3px;
+    -webkit-text-stroke-color: red;
+}
+.location1{
+    flex: 1;
+}
+.location2{
+    flex: 1;
+}
+.location3{
+    flex: 1;
+}
+.title{
+    color: rgb(248, 78, 52);
+    text-align: center;
+    -webkit-text-stroke-width: 0.9px;
+    -webkit-text-stroke-color: red;
+}
